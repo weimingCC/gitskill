@@ -1,2 +1,2 @@
 branch dev
-master ?
+master $
